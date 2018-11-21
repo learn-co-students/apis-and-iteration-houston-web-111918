@@ -1,3 +1,7 @@
+require 'rest-client'
+require 'json'
+require 'pry'
+
 def welcome
   # puts out a welcome message here!
 end
